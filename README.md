@@ -1,5 +1,5 @@
-# mern_frontend
+# mern_backend
 
 first start this server using :
-node server.js
-this is the backend of mern form 
+# use command => node server.js
+to start the server
